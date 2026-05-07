@@ -1,3 +1,8 @@
-# team-project
+# Group B
 
-steffi 
+## Team Members
+
+- Steffi
+- Rahmo 
+- Naomi
+- Simbiat
